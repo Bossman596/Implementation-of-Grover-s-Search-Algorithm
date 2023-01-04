@@ -5,3 +5,5 @@ outputting the desired string of length n composed of 0s and 1s that is entered 
 
 The unique part of my circuit is the implimentation of a z gate with n-1 controls that is composed 
 of only rz gates, cx gates, and swaps. This is used in both the oracle and the diffuser.
+
+Resources: https://arxiv.org/abs/quant-ph/0303063
